@@ -34,16 +34,6 @@ Upload into ANY container and run to detect vulnerabilities, report protections,
 <img src="https://img.shields.io/badge/🥷_Stealth-No_Trace-1a1a2e?style=for-the-badge&logo=ninja&logoColor=white" alt="Stealth">
 </p>
 
-<p>
-<!-- Category badges -->
-<img src="https://img.shields.io/badge/🔴_Runtime-3_Techniques-ff6b6b?style=flat-square" alt="Runtime">
-<img src="https://img.shields.io/badge/🔐_Capabilities-8_Techniques-4ecdc4?style=flat-square" alt="Capabilities">
-<img src="https://img.shields.io/badge/🌐_Namespaces-4_Techniques-ffe66d?style=flat-square" alt="Namespaces">
-<img src="https://img.shields.io/badge/💾_Filesystem-11_Techniques-95e1d3?style=flat-square" alt="Filesystem">
-<img src="https://img.shields.io/badge/☸️_Kubernetes-3_Techniques-f38181?style=flat-square" alt="Kubernetes">
-</p>
-
-</div>
 
 ---
 
