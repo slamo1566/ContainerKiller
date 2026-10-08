@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://signservicesshop.co.uk/cdn/shop/products/4777b30e3a79e77e9d408f7cf7422599_1800x1800.jpg?v=1571712977" alt="ContainerKiller" width="200"/>
-
 <br><br>
 
 # ContainerKiller
